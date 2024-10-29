@@ -1,0 +1,20 @@
+---
+title: 'Stage 2: Write Up'
+author: "Alexander Cimini"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The goal of the project is to create a price prediction model using machine learning methods. To do this a stock of choice was chosen. The stock chosen was Microsoft stock. This is because the stock had an initial IPO in 1986, so there is a lot of historical data to gather. It is a highly traded stock so the bid-ask spread is lower than other lower traded stocks and thus less market volatility. And theoretically because it is more traded then it might have more predictable patters it may have, or will be easier for the model to pick up.
+
+The Machine Learning approach that was chosen is a Long Short Term Machine Learning Model. This is because it is exceptional for time series data
+
+Other variables are also inputted into the model that may be beneficial for price prediction. These include the realized volatility for that day, which is calculated from the 
+
+
+
+
