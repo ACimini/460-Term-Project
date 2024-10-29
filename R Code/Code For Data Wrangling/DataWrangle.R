@@ -54,4 +54,4 @@ main = left_join(Stock,VIX, by = "Date")
 main = left_join(main,CA,by = "Date")
 main = left_join(main,spy,by = "Date")
 
-write.csv(main,"C:/Users/alexc/OneDrive/Desktop/ECNS 460/GitHub Materials/460-Term-Project/Data/Full_Dataset")
+write.csv(main,"C:/Users/alexc/OneDrive/Desktop/ECNS 460/GitHub Materials/460-Term-Project/Data/Complete_Dataset")
