@@ -6,4 +6,4 @@ This repository includes the code and dataset necessary to implement a Long Shor
 
 [Stage 1: Plan](https://github.com/ACimini/460-Term-Project/blob/main/Plan%20Stages/Term%20Project%20Plan.pdf)
 
-Stage 2: Visualization
+[Stage 2: Visualization](https://github.com/ACimini/460-Term-Project/blob/main/Plan%20Stages/Stage-2-Visualization.html)
