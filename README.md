@@ -8,4 +8,4 @@ This repository includes the code and dataset necessary to implement a Long Shor
 
 [Stage 2: Visualization](https://github.com/ACimini/460-Term-Project/blob/main/Plan%20Stages/Stage-2-Visualization.html)
 
-[Stage 3: Analysis of the Prediction](
+[Stage 3: Analysis of the Prediction](https://github.com/ACimini/460-Term-Project/blob/main/Plan%20Stages/Stage%203/Price%20Forecasting%20Analysis%20FINAL.pdf)
